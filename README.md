@@ -2,6 +2,8 @@
 
 A quick utility to automatically set up [Oh My Posh](https://ohmyposh.dev/) with a custom theme in Windows and WSL.
 
+> briefly, i don't want to spend anytime setting up oh-my-posh in windows and wsl when i switch to a new machine or reinstall windows.
+
 ## Features
 
 - Zero know setup oh-my-posh

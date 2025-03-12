@@ -57,7 +57,7 @@ else {
 Write-Host "Configuring Oh My Posh Theme in your PowerShell profile..."
 
 # Download custom theme file
-$themeUrl = "https://gist.githubusercontent.com/JesuisTong/6f1d4a313cc88720b6740d72ebf58b04/raw/7dfa5c7858295ec7930515f9a80ccf07b88f7b19/tongz.omp.json"
+$themeUrl = "https://raw.githubusercontent.com/JesuisTong/one-click-oh-my-posh/refs/heads/main/tongz.omp.json"
 $themePath = "$env:USERPROFILE\tongz.omp.json"
 $profilePath = "$PROFILE"
         
